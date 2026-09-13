@@ -28,7 +28,7 @@ from modules.scheduling import render_scheduling
 # ============================================================
 
 st.set_page_config(
-    page_title="Construction Planning & Control",
+    page_title="BSI",
     page_icon="🏗️",
     layout="wide",
     initial_sidebar_state="expanded"
