@@ -29,7 +29,7 @@ from modules.scheduling import render_scheduling
 
 st.set_page_config(
     page_title="BSI",
-    page_icon="🏗️",
+    page_icon="assets/bsi_logo.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
